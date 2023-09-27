@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: blue;
+  }
+  
+  h1 {
+    margin-top: 20px;
+    color: aliceblue;
+  }
+  
+  #counter {
+    font-size: 48px;
+    margin-top: 20px;
+  }
+  
+  button {
+    font-size: 18px;
+    margin: 10px;
+    padding: 8px 16px;
+    cursor: pointer;
+  
+  }
+ 
+
+
+
